@@ -1,2 +1,4 @@
 # Islamic-Home-Screen-Setup
-This is my home screen setup with KLWP.
+(UNFINISHED)
+
+This is my home screen setup with KLWP. The prayer times display are fetched from aladhan.com
